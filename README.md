@@ -26,23 +26,28 @@
 ### 🖥️ About me
 
 ```python
-itokiana@github:~/profile$ python3 about.py
-
 class Itokiana:
-    role     = ["Backend Dev 🐍", "CyberSec Explorer 🔐"]
-    stack    = ["Python", "Django", "FastAPI", "Node.js", "Express"]
-    now      = "Digging deep into backend & security 🕵️"
-    learning = ["PostgreSQL advanced", "CyberSec", "APIs"]
-    mottos   = [
+    stack = [
+        "Python", "FastAPI", "Django",
+        "Node.js", "Express",
+        "PostgreSQL", "Docker"
+    ]
+
+    learning = [
+        "Backend Engineering",
+        "CyberSec",
+        "System Architecture"
+    ]
+
+    mottos = [
         "If it doesn't work in prod, it doesn't exist.",
         "Clean code. Always.",
         "Build fast, break nothing.",
         "Data in, magic out."
     ]
-    secret   = "I read docs for fun. Don't judge me. 📖"
 
-# instance created ✓
-itokiana@github:~/profile$ █
+    status = "Building APIs and questioning my life choices 🧪"
+
 ```
 
 <br clear="right"/>
