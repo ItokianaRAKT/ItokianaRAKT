@@ -26,6 +26,8 @@
 ### 🖥️ About me
 
 ```python
+itokiana@github:~/profile$ python3 about.py
+
 class Itokiana:
     role     = ["Backend Dev 🐍", "CyberSec Explorer 🔐"]
     stack    = ["Python", "Django", "FastAPI", "Node.js", "Express"]
@@ -38,6 +40,9 @@ class Itokiana:
         "Data in, magic out."
     ]
     secret   = "I read docs for fun. Don't judge me. 📖"
+
+# instance created ✓
+itokiana@github:~/profile$ █
 ```
 
 <br clear="right"/>
