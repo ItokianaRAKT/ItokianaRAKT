@@ -121,22 +121,18 @@ class Itokiana:
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹️ Contribution Pacman
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ItokianaRAKT/ItokianaRAKT/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/ItokianaRAKT/ItokianaRAKT/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ItokianaRAKT/ItokianaRAKT/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake eating my commits"
-    src="https://raw.githubusercontent.com/ItokianaRAKT/ItokianaRAKT/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/ItokianaRAKT/ItokianaRAKT/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/ItokianaRAKT/ItokianaRAKT/output/pacman-contribution-graph.svg" />
 </picture>
-
 </div>
-
----
 
 ## 🌱 Currently
 
