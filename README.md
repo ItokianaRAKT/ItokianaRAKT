@@ -45,7 +45,7 @@ class Itokiana:
         "Security thinking"
     ]
 
-    mottos = [
+    motto = [
         "Build the present, deploy the future."
     ]
 
@@ -177,7 +177,7 @@ class Itokiana:
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
 
 </div>
 
