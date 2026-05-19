@@ -6,7 +6,12 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=580&lines=%F0%9F%91%8B+Hi%2C+I%27m+Itokiana+!;%F0%9F%90%8D+Python+is+my+first+language.;%E2%9A%A1+If+it+doesn't+work+in+prod%2C+it+doesn't+exist.;%F0%9F%94%90+CyberSec+mode%3A+activated.;%F0%9F%8C%B1+Clean+code.+Always.;%F0%9F%9A%80+Build+fast%2C+break+nothing.;%F0%9F%93%A6+Data+in%2C+magic+out." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Itokiana.;%F0%9F%9B%A0%EF%B8%8F+Learning+by+building.;%F0%9F%90%8D+Python+is+my+main+tool.;%F0%9F%9A%80+Thrown+into+projects%2C+figuring+things+out+on+the+fly.;%E2%9A%A1+Still+building%2C+still+figuring+it+out."
+    alt="Typing SVG"
+  />
+</a>
 
 </div>
 
