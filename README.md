@@ -28,25 +28,23 @@
 ```python
 class Itokiana:
     stack = [
-        "Python", "FastAPI", "Django",
-        "Node.js", "Express",
-        "PostgreSQL", "Docker"
+        "Backend": ["Python"],
+        "Frameworks": ["FastAPI", "Django"],
+        "Data": ["PostgreSQL"],
+        "Tools": ["Git"]
     ]
 
     learning = [
-        "Backend Engineering",
-        "CyberSec",
-        "System Architecture"
+        "Backend systems",
+        "Systems architecture",
+        "Security thinking"
     ]
 
     mottos = [
-        "If it doesn't work in prod, it doesn't exist.",
-        "Clean code. Always.",
-        "Build fast, break nothing.",
-        "Data in, magic out."
+        "Build the present, deploy the future."
     ]
 
-    status = "Building APIs and questioning my life choices 🧪"
+    status = "Learning by building."
 
 ```
 
