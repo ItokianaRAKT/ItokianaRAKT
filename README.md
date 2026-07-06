@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,25:a855f7,50:6d28d9,75:4c1d95,100:7c3aed&height=260&section=header&text=Itokiana&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Backend%20Dev%20%E2%80%A2%20Python%20Enthusiast%20%E2%80%A2%20CyberSec%20Explorer&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,25:a855f7,50:6d28d9,75:4c1d95,100:7c3aed&height=260&section=header&text=Itokiana&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineering%20%E2%80%A2%20Software%20Architecture%20%E2%80%A2%20Cybersecurity&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Itokiana.;%F0%9F%9B%A0%EF%B8%8F+Learning+by+building.;%F0%9F%90%8D+Python+is+my+main+tool.;%F0%9F%9A%80+Thrown+into+projects%2C+figuring+things+out+on+the+fly.;%E2%9A%A1+Still+building%2C+still+figuring+it+out."
+    src="https://readme-typing-svg.demolab.com?font=Nunito&weight=900&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Itokiana.;%F0%9F%92%A1+Curiosity+drives+me.;%F0%9F%9B%A0%EF%B8%8F+I+learn+by+building.;%F0%9F%9A%80+Always+building+something+new."
     alt="Typing SVG"
   />
 </a>
@@ -32,25 +32,14 @@
 
 ```python
 class Itokiana:
-    stack = [
-        "Backend": ["Python"],
-        "Frameworks": ["FastAPI", "Django"],
-        "Data": ["PostgreSQL"],
-        "Tools": ["Git"]
+    role = "Computer Science Student"
+    interests = [
+        "Backend Engineering",
+        "Cybersecurity",
+        "Software Architecture"
     ]
 
-    learning = [
-        "Backend systems",
-        "Systems architecture",
-        "Security thinking"
-    ]
-
-    motto = [
-        "Build the present, deploy the future."
-    ]
-
-    status = "Learning by building."
-
+    mindset = "Learning by building."
 ```
 
 <br clear="right"/>
@@ -61,21 +50,15 @@ class Itokiana:
 
 <div align="center">
 
-### ✦ Backend & Languages
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css,postgres,react,spring&perline=8&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,ts&perline=6&theme=dark" />
+</div>
 
-### ✦ Databases & Security
+## 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash&perline=6&theme=dark" />
+<div align="center">
 
-### ✦ Tools & Deploy
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=6&theme=dark" />
-
-### ✦ Currently Exploring
-
-<img src="https://skillicons.dev/icons?i=python,postgres,fastapi,bash,kali&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,pycharm,webstorm&perline=8&theme=dark" />
 
 </div>
 
@@ -100,13 +83,6 @@ class Itokiana:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/ItokianaRAKT">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ItokianaRAKT&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d001a&title_color=a855f7&icon_color=ec4899&text_color=e2d9f3&border_color=7c3aed&border_radius=18" />
-</a>
-<a href="https://github.com/ItokianaRAKT">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItokianaRAKT&layout=compact&theme=midnight-purple&bg_color=0d001a&title_color=a855f7&text_color=e2d9f3&border_color=7c3aed&border_radius=18&langs_count=6" />
-</a>
 
 </div>
 
@@ -141,23 +117,12 @@ class Itokiana:
 
 <div align="center">
 
-| | Skill | Progress |
+| | Focus | Status |
 |:---:|:---|:---|
-| 🐍 | Python / Django / FastAPI | ██████░░░░ 60% |
-| ⚡ | Node.js / Express | ███░░░░░░░ 35% |
-| 🗄️ | PostgreSQL / SQL avancé | ████░░░░░░ 40% |
-| 🔐 | CyberSec | ██░░░░░░░░ 25% 🌱 |
-| 🛠️ | Git & DevOps basics | ████░░░░░░ 45% |
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ItokianaRAKT&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+| 🐍 | Python & FastAPI | Building projects |
+| ☕ | Java & Spring Boot | Learning |
+| 🔐 | Cybersecurity | PortSwigger Academy |
+| 🧩 | Algorithms | Codewars |
 
 </div>
 
