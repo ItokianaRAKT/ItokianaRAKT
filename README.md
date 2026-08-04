@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,25:a855f7,50:6d28d9,75:4c1d95,100:7c3aed&height=260&section=header&text=Itokiana&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineering%20%E2%80%A2%20Software%20Architecture%20%E2%80%A2%20Cybersecurity&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,25:a855f7,50:6d28d9,75:4c1d95,100:7c3aed&height=260&section=header&text=Itokiana&fontSize=82&fontColor=ffffff&fontAlignY=45&desc=Explore.%20Understand.%20Evolve.&descSize=17&descAlignY=68&descColor=ede9fe&animation=twinkling&stroke=ffffff&strokeWidth=2&fontFamily=Nunito" alt="Header"/>
 
 </div>
 
