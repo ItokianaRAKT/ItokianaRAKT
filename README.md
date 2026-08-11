@@ -1,6 +1,6 @@
 # Itokiana, aspiring developer.
 
-Computer science student, I build, experiment, and learn by creating. From web development and backend engineering to cybersecurity, I take on one project at a time, driven by a desire to understand as much as I want to build..
+Computer science student, I build, experiment, and learn by creating. From web development and backend engineering to cybersecurity, I take on one project at a time, driven by a desire to understand as much as I want to build.
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
       <table>
         <tr>
           <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 projet-1</b><br><sub>Description courte du projet sur 4 à 5 lignes.</sub></td>
+          <td width="67%" align="left"><b>🔹 Tsinjo</b><br><sub>An application designed to reduce food waste in Madagascar by connecting people with surplus food to those who need it.</sub></td>
         </tr>
       </table>
     </td>
@@ -78,7 +78,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
       <table>
         <tr>
           <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 projet-2</b><br><sub>Description courte du projet sur 4 à 5 lignes.</sub></td>
+          <td width="67%" align="left"><b>🔹 Capsule</b><br><sub>A time capsule web application where users can create messages, memories, or reflections to preserve and rediscover at a chosen date.</sub></td>
         </tr>
       </table>
     </td>
@@ -88,7 +88,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
       <table>
         <tr>
           <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 projet-3</b><br><sub>Description courte du projet sur 4 à 5 lignes.</sub></td>
+          <td width="67%" align="left"><b>🔹 SosMada</b><br><sub>An emergency mobile application centralizing essential information and emergency service contacts in Madagascar, designed to remain useful even offline.</sub></td>
         </tr>
       </table>
     </td>
@@ -96,7 +96,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
       <table>
         <tr>
           <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 projet-4</b><br><sub>Description courte du projet sur 4 à 5 lignes.</sub></td>
+          <td width="67%" align="left"><b>🔹 Glassbound</b><br><sub>A video game project set in a mysterious world, combining storytelling, discovery, and interactive gameplay mechanics.</sub></td>
         </tr>
       </table>
     </td>
@@ -121,6 +121,6 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 <div align="center">
 
-> *Avancer, une ligne à la fois.*
+>Moving forward, one line at time.*
 
 </div>
