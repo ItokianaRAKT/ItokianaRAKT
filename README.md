@@ -1,6 +1,6 @@
-# Itokiana, développeuse en devenir.
+# Itokiana, aspiring developer.
 
-Étudiante en informatique, je construis, j'expérimente et j'apprends en créant. Entre développement web, backend et sécurité, j'avance un projet après l'autre, avec l'envie de comprendre autant que de construire.
+Computer science student, I build, experiment, and learn by creating. From web development and backend engineering to cybersecurity, I take on one project at a time, driven by a desire to understand as much as I want to build..
 
 <div align="center">
 
