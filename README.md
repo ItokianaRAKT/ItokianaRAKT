@@ -4,7 +4,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itokiana&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itokiana\&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -67,39 +67,67 @@ Computer science student, I build, experiment, and learn by creating. From web d
 <table>
   <tr>
     <td width="48%">
-      <table>
+      <table width="100%">
         <tr>
-          <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 Tsinjo</b><br><sub>An application designed to reduce food waste in Madagascar by connecting people with surplus food to those who need it.</sub></td>
+          <td width="130" align="center">
+            <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+          </td>
+          <td width="300" align="left">
+            <b>🔹 Tsinjo</b><br>
+            <sub>An application designed to reduce food waste in Madagascar by connecting people with surplus food to those who need it.</sub>
+          </td>
         </tr>
       </table>
     </td>
-    <td width="48%">
-      <table>
-        <tr>
-          <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 Capsule</b><br><sub>A time capsule web application where users can create messages, memories, or reflections to preserve and rediscover at a chosen date.</sub></td>
-        </tr>
-      </table>
-    </td>
+
+
+<td width="48%">
+  <table width="100%">
+    <tr>
+      <td width="130" align="center">
+        <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+      </td>
+      <td width="300" align="left">
+        <b>🔹 SosMada</b><br>
+        <sub>An emergency mobile application centralizing essential information and emergency service contacts in Madagascar, designed to remain useful even offline.</sub>
+      </td>
+    </tr>
+  </table>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="48%">
-      <table>
+      <table width="100%">
         <tr>
-          <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 SosMada</b><br><sub>An emergency mobile application centralizing essential information and emergency service contacts in Madagascar, designed to remain useful even offline.</sub></td>
+          <td width="130" align="center">
+            <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+          </td>
+          <td width="300" align="left">
+            <b>🔹 Glassbound</b><br>
+            <sub>A video game project set in a mysterious world, combining storytelling, discovery, and interactive gameplay mechanics.</sub>
+          </td>
         </tr>
       </table>
     </td>
-    <td width="48%">
-      <table>
-        <tr>
-          <td width="33%" align="center"><img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="50" /></td>
-          <td width="67%" align="left"><b>🔹 Glassbound</b><br><sub>A video game project set in a mysterious world, combining storytelling, discovery, and interactive gameplay mechanics.</sub></td>
-        </tr>
-      </table>
-    </td>
+
+<td width="48%">
+  <table width="100%">
+    <tr>
+      <td width="130" align="center">
+        <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+      </td>
+      <td width=300" align="left">
+        <b>🔹 Capsule</b><br>
+        <sub>A time capsule web application where users can create messages, memories, or reflections to preserve and rediscover at a chosen date.</sub>
+      </td>
+    </tr>
+  </table>
+</td>
+```
+
   </tr>
 </table>
 </div>
@@ -108,12 +136,13 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 ### Liens
 
-#### Retrouvez quelques traces de ce que je construis:
+#### Retrouvez quelques traces de ce que je construis :
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[votre-pseudo])
-[![Portfolio](https://img.shields.io/badge/Portfolio-B2A4D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://[votre-site].com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/[votre-pseudo])
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-B2A4D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://[votre-site].com)
 
 </div>
 
@@ -121,6 +150,6 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 <div align="center">
 
->Moving forward, one line at time.*
+> Moving forward, one line at a time ✨
 
 </div>
