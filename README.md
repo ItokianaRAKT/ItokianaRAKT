@@ -70,7 +70,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
       <table width="100%">
         <tr>
           <td width="130" align="center">
-            <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+            <img src="https://github.com/ItokianaRAKT/ItokianaRAKT/blob/main/logo/tsinjo.png?text=Tsinjo-logo" width="100" />
           </td>
           <td width="300" align="left">
             <b>🔹 Tsinjo</b><br>
@@ -85,7 +85,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
   <table width="100%">
     <tr>
       <td width="130" align="center">
-        <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+        <img src="https://github.com/ItokianaRAKT/ItokianaRAKT/blob/main/logo/SOSMada1.png?text=SOSMada-logo" width="100" />
       </td>
       <td width="300" align="left">
         <b>🔹 SosMada</b><br>
@@ -103,7 +103,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
       <table width="100%">
         <tr>
           <td width="130" align="center">
-            <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+            <img src="https://github.com/ItokianaRAKT/ItokianaRAKT/blob/main/logo/glassbound.png?text=Glassbound-logo" width="120" />
           </td>
           <td width="300" align="left">
             <b>🔹 Glassbound</b><br>
@@ -117,7 +117,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
   <table width="100%">
     <tr>
       <td width="130" align="center">
-        <img src="https://via.placeholder.com/50x50/0d1117/7aa2f7?text=Logo" width="100" />
+        <img src="https://github.com/ItokianaRAKT/ItokianaRAKT/blob/main/logo/capsule.png?text=Capsule-logo" width="100" />
       </td>
       <td width=300" align="left">
         <b>🔹 Capsule</b><br>
@@ -134,9 +134,9 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 ---
 
-### Liens
+### Links
 
-#### Retrouvez quelques traces de ce que je construis :
+#### Find some traces of what I'm building:
 
 <div align="center">
 
