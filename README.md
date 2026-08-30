@@ -4,7 +4,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itokiana\&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ItokianaRAKT&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
 </div>
 
