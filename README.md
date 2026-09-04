@@ -1,4 +1,4 @@
-# Itokiana, aspiring developer.
+# Itokiana, aspiring developer (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 
 Computer science student, I build, experiment, and learn by creating. From web development and backend engineering to cybersecurity, I take on one project at a time, driven by a desire to understand as much as I want to build.
 
@@ -61,7 +61,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 ---
 
-### Projets
+### Ongoing projects
 
 <div align="center">
 <table>
@@ -153,3 +153,4 @@ Computer science student, I build, experiment, and learn by creating. From web d
 > Moving forward, one line at a time ✨
 
 </div>
+ᓚᘏᗢ
