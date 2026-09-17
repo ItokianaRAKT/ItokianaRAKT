@@ -142,7 +142,7 @@ Computer science student, I build, experiment, and learn by creating. From web d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/itokiana-rakotoarivelo-281726374)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-B2A4D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://[votre-site].com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B2A4D4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://itokiana-rakt-portfolio.vercel.app/)
 
 </div>
 
