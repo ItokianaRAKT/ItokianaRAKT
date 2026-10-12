@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./logo/banniere.png" width="100%" alt="Each fall fuels the next version" />
-</div>
-
 # Itokiana, aspiring developer (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 
 Computer science student, I build, experiment, and learn by creating. From web development and backend engineering to cybersecurity, I take on one project at a time, driven by a desire to understand as much as I want to build.
